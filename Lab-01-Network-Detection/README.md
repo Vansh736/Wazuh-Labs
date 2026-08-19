@@ -131,11 +131,11 @@ The next step in a real investigation would be to correlate the alert with addit
 
 ### Nmap Scan
 
-![Nmap Scan](screenshots/nmap-scan.png)
+![Nmap Scan](Screenshots/nmap-scan.png)
 
 ### Suricata Alert
 
-![Suricata Alert](screenshots/suricata-alert.png)
+![Suricata Alert](Screenshots/suricata-alert.png)
 
 ## Disclaimer
 
